@@ -1,0 +1,6 @@
+/.vscode
+/db.sqlite3
+document/__pycache__
+todo/__pycache__
+todo/migrations/__pycache__
+todo/test/__pycache__
